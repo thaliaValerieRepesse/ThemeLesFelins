@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+}
+
+.bg-light{
+    background: dimgray !important;
+}
+
+.bg-secondary{
+    background: dimgray !important;
+}
+
+#histoireDuTigre{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+#container2{
+    margin:0;
+    background-image: url("../imgs/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 800px;
+    width: 100%;
+}
+
+#containerTexte{
+    background-color: dimgrey;
+    width:65%;
+}
+
+#container3{
+    height: 100px;
+    display: flex;
+    
+    
+
+}
+
+p{
+    margin:0;
+    padding-left: 20px;
+    padding-right: 20px;
+    scroll-padding-bottom: 20px;;
+}
+hr{
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 55px;
+}
+h4{
+    text-align: center;
+    border: 1px solid black;
+    background-color: white;
+}
+
